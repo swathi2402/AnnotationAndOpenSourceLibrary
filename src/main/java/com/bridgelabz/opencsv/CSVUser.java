@@ -24,4 +24,21 @@ public class CSVUser {
 				", country='" + country + '\'' + 
 				'}';
 	}
+
+	public String getName() {
+		return name;
+	}
+
+	public String getEmail() {
+		return email;
+	}
+
+	public String getPhoneNo() {
+		return phoneNo;
+	}
+
+	public String getCountry() {
+		return country;
+	}
+	
 }
