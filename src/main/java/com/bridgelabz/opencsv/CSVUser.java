@@ -27,13 +27,13 @@ public class CSVUser {
 	
 	
 
-//	public CSVUser(String name, String email, String phoneNo, String country) {
-//		super();
-//		this.name = name;
-//		this.email = email;
-//		this.phoneNo = phoneNo;
-//		this.country = country;
-//	}
+	public CSVUser(String name, String email, String phoneNo, String country) {
+		super();
+		this.name = name;
+		this.email = email;
+		this.phoneNo = phoneNo;
+		this.country = country;
+	}
 
 
 
