@@ -25,7 +25,9 @@ public class CSVUser {
 				'}';
 	}
 	
-	
+	public CSVUser() {
+		
+	}
 
 	public CSVUser(String name, String email, String phoneNo, String country) {
 		super();
